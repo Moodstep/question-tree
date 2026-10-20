@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+tests/captures/
+.DS_Store
+reference/
+
+# Privé : reste sur le disque, jamais publié
+prompts/
+communication/
+design/
+impression/
+lanceur/
+docs/superpowers/
+docs/carte_de_test_mes_arbres.md
+tests/carte_de_test_*
+docs/guide/GITHUB-conseils.md
+docs/guide/*.backup_*
+docs/guide/README-propose.md
