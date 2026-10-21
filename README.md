@@ -13,7 +13,7 @@ Un seul fichier HTML. Aucune installation, aucune connexion à Internet, aucun t
 ## Essayer
 
 1. **Pour découvrir** : ouvre la [version en ligne](https://moodstep.github.io/question-tree/). Rien à installer.
-2. **Pour t'en servir devant un public** : télécharge `index.html` depuis la [dernière version](https://github.com/Moodstep/question-tree/releases/latest), puis ouvre-le dans ton navigateur (testé dans Chrome et Firefox). Il fonctionne sans Internet, même dans une salle sans réseau.
+2. **Pour t'en servir devant un public** : télécharge `arbre-a-questions.html` depuis la [dernière version](https://github.com/Moodstep/question-tree/releases/latest), puis ouvre-le dans ton navigateur (testé dans Chrome et Firefox). Il fonctionne sans Internet, même dans une salle sans réseau.
 3. Choisis ton arbre, écris tes questions, lance la scène.
 
 ## Comment ça marche
